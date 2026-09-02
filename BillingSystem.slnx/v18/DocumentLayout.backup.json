@@ -1,0 +1,620 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Frances Shane\\OneDrive\\Desktop\\OneDrive\\Desktop\\Documents\\AppDev\\BillingSystem\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Frances Shane\\OneDrive\\Desktop\\OneDrive\\Desktop\\Documents\\AppDev\\BillingSystem\\BillingSystem\\obj\\Debug\\net10.0-windows\\BillingSystem.designer.runtimeconfig.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:BillingSystem\\obj\\Debug\\net10.0-windows\\BillingSystem.designer.runtimeconfig.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Frances Shane\\OneDrive\\Desktop\\OneDrive\\Desktop\\Documents\\AppDev\\BillingSystem\\BillingSystem\\obj\\Debug\\net10.0-windows\\BillingSystem.designer.deps.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:BillingSystem\\obj\\Debug\\net10.0-windows\\BillingSystem.designer.deps.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Frances Shane\\OneDrive\\Desktop\\OneDrive\\Desktop\\Documents\\AppDev\\BillingSystem\\BillingSystem\\CustomerListForm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:BillingSystem\\CustomerListForm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Frances Shane\\OneDrive\\Desktop\\OneDrive\\Desktop\\Documents\\AppDev\\BillingSystem\\AddCustomerForm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:AddCustomerForm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Frances Shane\\OneDrive\\Desktop\\OneDrive\\Desktop\\Documents\\AppDev\\BillingSystem\\Program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Frances Shane\\OneDrive\\Desktop\\OneDrive\\Desktop\\Documents\\AppDev\\BillingSystem\\LoginForm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:LoginForm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Frances Shane\\OneDrive\\Desktop\\OneDrive\\Desktop\\Documents\\AppDev\\BillingSystem\\ApplicationConfiguration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:ApplicationConfiguration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Frances Shane\\OneDrive\\Desktop\\OneDrive\\Desktop\\Documents\\AppDev\\BillingSystem\\BillingSystem\\ApplicationConfiguration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:BillingSystem\\ApplicationConfiguration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Frances Shane\\OneDrive\\Desktop\\OneDrive\\Desktop\\Documents\\AppDev\\BillingSystem\\BillingSystem\\AddCustomerFormcs.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:BillingSystem\\AddCustomerFormcs.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Frances Shane\\OneDrive\\Desktop\\OneDrive\\Desktop\\Documents\\AppDev\\BillingSystem\\CustomerListForm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:CustomerListForm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Frances Shane\\OneDrive\\Desktop\\OneDrive\\Desktop\\Documents\\AppDev\\BillingSystem\\BillingSystem\\LoginForm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:BillingSystem\\LoginForm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Frances Shane\\OneDrive\\Desktop\\OneDrive\\Desktop\\Documents\\AppDev\\BillingSystem\\BillingSystem\\obj\\Debug\\net10.0-windows\\ref\\BillingSystem.dll||{177559E0-D141-11D0-92DF-00A0C9138C45}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:BillingSystem\\obj\\Debug\\net10.0-windows\\ref\\BillingSystem.dll||{177559E0-D141-11D0-92DF-00A0C9138C45}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Frances Shane\\OneDrive\\Desktop\\OneDrive\\Desktop\\Documents\\AppDev\\BillingSystem\\BillingSystem\\bin\\Debug\\net10.0-windows\\BillingSystem.exe||{177559E0-D141-11D0-92DF-00A0C9138C45}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:BillingSystem\\bin\\Debug\\net10.0-windows\\BillingSystem.exe||{177559E0-D141-11D0-92DF-00A0C9138C45}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Frances Shane\\OneDrive\\Desktop\\OneDrive\\Desktop\\Documents\\AppDev\\BillingSystem\\BillingSystem\\bin\\Debug\\net10.0-windows\\BillingSystem.dll||{177559E0-D141-11D0-92DF-00A0C9138C45}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:BillingSystem\\bin\\Debug\\net10.0-windows\\BillingSystem.dll||{177559E0-D141-11D0-92DF-00A0C9138C45}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Frances Shane\\OneDrive\\Desktop\\OneDrive\\Desktop\\Documents\\AppDev\\BillingSystem\\BillingSystem\\BillingSystem.csproj.user||{FA3CD31E-987B-443A-9B81-186104E8DAC1}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:BillingSystem\\BillingSystem.csproj.user||{FA3CD31E-987B-443A-9B81-186104E8DAC1}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Frances Shane\\OneDrive\\Desktop\\OneDrive\\Desktop\\Documents\\AppDev\\BillingSystem\\BillingSystem\\obj\\BillingSystem.csproj.nuget.g.props||{FA3CD31E-987B-443A-9B81-186104E8DAC1}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:BillingSystem\\obj\\BillingSystem.csproj.nuget.g.props||{FA3CD31E-987B-443A-9B81-186104E8DAC1}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Frances Shane\\OneDrive\\Desktop\\OneDrive\\Desktop\\Documents\\AppDev\\BillingSystem\\BillingSystem\\obj\\Debug\\net10.0-windows\\BillingSystem.csproj.BuildWithSkipAnalyzers||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:BillingSystem\\obj\\Debug\\net10.0-windows\\BillingSystem.csproj.BuildWithSkipAnalyzers||{8B382828-6202-11D1-8870-0000F87579D2}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Frances Shane\\OneDrive\\Desktop\\OneDrive\\Desktop\\Documents\\AppDev\\BillingSystem\\BillingSystem\\obj\\Debug\\net10.0-windows\\BillingSystem.AssemblyInfoInputs.cache||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:BillingSystem\\obj\\Debug\\net10.0-windows\\BillingSystem.AssemblyInfoInputs.cache||{8B382828-6202-11D1-8870-0000F87579D2}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Frances Shane\\OneDrive\\Desktop\\OneDrive\\Desktop\\Documents\\AppDev\\BillingSystem\\BillingSystem\\obj\\Debug\\net10.0-windows\\BillingSystem.AssemblyInfo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:BillingSystem\\obj\\Debug\\net10.0-windows\\BillingSystem.AssemblyInfo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Frances Shane\\OneDrive\\Desktop\\OneDrive\\Desktop\\Documents\\AppDev\\BillingSystem\\BillingSystem\\obj\\Debug\\net10.0-windows\\apphost.exe||{177559E0-D141-11D0-92DF-00A0C9138C45}|,   b e g i n   \u011F\u011F\u011F\u011F8 !     \u0022     ",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:BillingSystem\\obj\\Debug\\net10.0-windows\\apphost.exe||{177559E0-D141-11D0-92DF-00A0C9138C45}|,   b e g i n   \u011F\u011F\u011F\u011F8 !     \u0022     "
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Frances Shane\\OneDrive\\Desktop\\OneDrive\\Desktop\\Documents\\AppDev\\BillingSystem\\BillingSystem\\obj\\Debug\\net10.0-windows\\apphost.exe||{177559E0-D141-11D0-92DF-00A0C9138C45}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:BillingSystem\\obj\\Debug\\net10.0-windows\\apphost.exe||{177559E0-D141-11D0-92DF-00A0C9138C45}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Frances Shane\\OneDrive\\Desktop\\OneDrive\\Desktop\\Documents\\AppDev\\BillingSystem\\BillingSystem\\obj\\Debug\\net10.0-windows\\.NETCoreApp,Version=v10.0.AssemblyAttributes.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:BillingSystem\\obj\\Debug\\net10.0-windows\\.NETCoreApp,Version=v10.0.AssemblyAttributes.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Frances Shane\\OneDrive\\Desktop\\OneDrive\\Desktop\\Documents\\AppDev\\BillingSystem\\BillingSystem\\obj\\Debug\\net10.0-windows\\refint\\BillingSystem.dll||{177559E0-D141-11D0-92DF-00A0C9138C45}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:BillingSystem\\obj\\Debug\\net10.0-windows\\refint\\BillingSystem.dll||{177559E0-D141-11D0-92DF-00A0C9138C45}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Frances Shane\\OneDrive\\Desktop\\OneDrive\\Desktop\\Documents\\AppDev\\BillingSystem\\BillingSystem\\bin\\Debug\\net10.0-windows\\BillingSystem.runtimeconfig.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:BillingSystem\\bin\\Debug\\net10.0-windows\\BillingSystem.runtimeconfig.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Frances Shane\\OneDrive\\Desktop\\OneDrive\\Desktop\\Documents\\AppDev\\BillingSystem\\BillingSystem\\bin\\Debug\\net10.0-windows\\BillingSystem.dll||{177559E0-D141-11D0-92DF-00A0C9138C45}|,   b e g i n       0 !     \u0022     ",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:BillingSystem\\bin\\Debug\\net10.0-windows\\BillingSystem.dll||{177559E0-D141-11D0-92DF-00A0C9138C45}|,   b e g i n       0 !     \u0022     "
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Frances Shane\\OneDrive\\Desktop\\OneDrive\\Desktop\\Documents\\AppDev\\BillingSystem\\BillingSystem\\bin\\Debug\\net10.0-windows\\BillingSystem.dll||{177559E0-D141-11D0-92DF-00A0C9138C45}|,   b e g i n   \u011F\u011F\u011F\u011F8 !     \u0022     ",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:BillingSystem\\bin\\Debug\\net10.0-windows\\BillingSystem.dll||{177559E0-D141-11D0-92DF-00A0C9138C45}|,   b e g i n   \u011F\u011F\u011F\u011F8 !     \u0022     "
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Frances Shane\\OneDrive\\Desktop\\OneDrive\\Desktop\\Documents\\AppDev\\BillingSystem\\BillingSystem\\bin\\Debug\\net10.0-windows\\BillingSystem.deps.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:BillingSystem\\bin\\Debug\\net10.0-windows\\BillingSystem.deps.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Frances Shane\\OneDrive\\Desktop\\OneDrive\\Desktop\\Documents\\AppDev\\BillingSystem\\.vs\\VSWorkspaceState.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:.vs\\VSWorkspaceState.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Frances Shane\\OneDrive\\Desktop\\OneDrive\\Desktop\\Documents\\AppDev\\BillingSystem\\.vs\\ProjectEvaluation\\billingsystem.strings.v10.bin||{25834150-CD7E-11D0-92DF-00A0C9138C45}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:.vs\\ProjectEvaluation\\billingsystem.strings.v10.bin||{25834150-CD7E-11D0-92DF-00A0C9138C45}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Frances Shane\\OneDrive\\Desktop\\OneDrive\\Desktop\\Documents\\AppDev\\BillingSystem\\.vs\\ProjectEvaluation\\billingsystem.projects.v10.bin||{25834150-CD7E-11D0-92DF-00A0C9138C45}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:.vs\\ProjectEvaluation\\billingsystem.projects.v10.bin||{25834150-CD7E-11D0-92DF-00A0C9138C45}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Frances Shane\\OneDrive\\Desktop\\OneDrive\\Desktop\\Documents\\AppDev\\BillingSystem\\.vs\\ProjectEvaluation\\billingsystem.metadata.v10.bin||{25834150-CD7E-11D0-92DF-00A0C9138C45}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:.vs\\ProjectEvaluation\\billingsystem.metadata.v10.bin||{25834150-CD7E-11D0-92DF-00A0C9138C45}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Frances Shane\\OneDrive\\Desktop\\OneDrive\\Desktop\\Documents\\AppDev\\BillingSystem\\.vs\\BillingSystem.slnx\\v18\\ResourceExplorer\\settings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:.vs\\BillingSystem.slnx\\v18\\ResourceExplorer\\settings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Frances Shane\\OneDrive\\Desktop\\OneDrive\\Desktop\\Documents\\AppDev\\BillingSystem\\BillingSystem\\obj\\Debug\\net10.0-windows\\BillingSystem.GlobalUsings.g.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:BillingSystem\\obj\\Debug\\net10.0-windows\\BillingSystem.GlobalUsings.g.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Frances Shane\\OneDrive\\Desktop\\OneDrive\\Desktop\\Documents\\AppDev\\BillingSystem\\BillingSystem\\obj\\BillingSystem.csproj.nuget.dgspec.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:BillingSystem\\obj\\BillingSystem.csproj.nuget.dgspec.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Frances Shane\\OneDrive\\Desktop\\OneDrive\\Desktop\\Documents\\AppDev\\BillingSystem\\BillingSystem\\obj\\BillingSystem.csproj.nuget.g.targets||{FA3CD31E-987B-443A-9B81-186104E8DAC1}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:BillingSystem\\obj\\BillingSystem.csproj.nuget.g.targets||{FA3CD31E-987B-443A-9B81-186104E8DAC1}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Frances Shane\\OneDrive\\Desktop\\OneDrive\\Desktop\\Documents\\AppDev\\BillingSystem\\BillingSystem\\obj\\project.nuget.cache||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:BillingSystem\\obj\\project.nuget.cache||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Frances Shane\\OneDrive\\Desktop\\OneDrive\\Desktop\\Documents\\AppDev\\BillingSystem\\BillingSystem\\obj\\project.assets.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:BillingSystem\\obj\\project.assets.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "BillingSystem.designer.runtimeconfig.json",
+              "DocumentMoniker": "C:\\Users\\Frances Shane\\OneDrive\\Desktop\\OneDrive\\Desktop\\Documents\\AppDev\\BillingSystem\\BillingSystem\\obj\\Debug\\net10.0-windows\\BillingSystem.designer.runtimeconfig.json",
+              "RelativeDocumentMoniker": "BillingSystem\\obj\\Debug\\net10.0-windows\\BillingSystem.designer.runtimeconfig.json",
+              "ToolTip": "C:\\Users\\Frances Shane\\OneDrive\\Desktop\\OneDrive\\Desktop\\Documents\\AppDev\\BillingSystem\\BillingSystem\\obj\\Debug\\net10.0-windows\\BillingSystem.designer.runtimeconfig.json",
+              "RelativeToolTip": "BillingSystem\\obj\\Debug\\net10.0-windows\\BillingSystem.designer.runtimeconfig.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2026-08-30T11:06:15.004Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "AddCustomerForm.cs",
+              "DocumentMoniker": "C:\\Users\\Frances Shane\\OneDrive\\Desktop\\OneDrive\\Desktop\\Documents\\AppDev\\BillingSystem\\AddCustomerForm.cs",
+              "RelativeDocumentMoniker": "AddCustomerForm.cs",
+              "ToolTip": "C:\\Users\\Frances Shane\\OneDrive\\Desktop\\OneDrive\\Desktop\\Documents\\AppDev\\BillingSystem\\AddCustomerForm.cs",
+              "RelativeToolTip": "AddCustomerForm.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-08-30T10:41:54.535Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Frances Shane\\OneDrive\\Desktop\\OneDrive\\Desktop\\Documents\\AppDev\\BillingSystem\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "C:\\Users\\Frances Shane\\OneDrive\\Desktop\\OneDrive\\Desktop\\Documents\\AppDev\\BillingSystem\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-08-30T10:41:53.501Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "ApplicationConfiguration.cs",
+              "DocumentMoniker": "C:\\Users\\Frances Shane\\OneDrive\\Desktop\\OneDrive\\Desktop\\Documents\\AppDev\\BillingSystem\\ApplicationConfiguration.cs",
+              "RelativeDocumentMoniker": "ApplicationConfiguration.cs",
+              "ToolTip": "C:\\Users\\Frances Shane\\OneDrive\\Desktop\\OneDrive\\Desktop\\Documents\\AppDev\\BillingSystem\\ApplicationConfiguration.cs",
+              "RelativeToolTip": "ApplicationConfiguration.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-08-30T10:41:50.71Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "CustomerListForm.cs",
+              "DocumentMoniker": "C:\\Users\\Frances Shane\\OneDrive\\Desktop\\OneDrive\\Desktop\\Documents\\AppDev\\BillingSystem\\BillingSystem\\CustomerListForm.cs",
+              "RelativeDocumentMoniker": "BillingSystem\\CustomerListForm.cs",
+              "ToolTip": "C:\\Users\\Frances Shane\\OneDrive\\Desktop\\OneDrive\\Desktop\\Documents\\AppDev\\BillingSystem\\BillingSystem\\CustomerListForm.cs",
+              "RelativeToolTip": "BillingSystem\\CustomerListForm.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACYAAAAYAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-08-30T10:28:01.962Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "BillingSystem.designer.deps.json",
+              "DocumentMoniker": "C:\\Users\\Frances Shane\\OneDrive\\Desktop\\OneDrive\\Desktop\\Documents\\AppDev\\BillingSystem\\BillingSystem\\obj\\Debug\\net10.0-windows\\BillingSystem.designer.deps.json",
+              "RelativeDocumentMoniker": "BillingSystem\\obj\\Debug\\net10.0-windows\\BillingSystem.designer.deps.json",
+              "ToolTip": "C:\\Users\\Frances Shane\\OneDrive\\Desktop\\OneDrive\\Desktop\\Documents\\AppDev\\BillingSystem\\BillingSystem\\obj\\Debug\\net10.0-windows\\BillingSystem.designer.deps.json",
+              "RelativeToolTip": "BillingSystem\\obj\\Debug\\net10.0-windows\\BillingSystem.designer.deps.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2026-08-30T10:28:26.731Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "ApplicationConfiguration.cs",
+              "DocumentMoniker": "C:\\Users\\Frances Shane\\OneDrive\\Desktop\\OneDrive\\Desktop\\Documents\\AppDev\\BillingSystem\\BillingSystem\\ApplicationConfiguration.cs",
+              "RelativeDocumentMoniker": "BillingSystem\\ApplicationConfiguration.cs",
+              "ToolTip": "C:\\Users\\Frances Shane\\OneDrive\\Desktop\\OneDrive\\Desktop\\Documents\\AppDev\\BillingSystem\\BillingSystem\\ApplicationConfiguration.cs",
+              "RelativeToolTip": "BillingSystem\\ApplicationConfiguration.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-08-30T10:41:39.173Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "LoginForm.cs",
+              "DocumentMoniker": "C:\\Users\\Frances Shane\\OneDrive\\Desktop\\OneDrive\\Desktop\\Documents\\AppDev\\BillingSystem\\LoginForm.cs",
+              "RelativeDocumentMoniker": "LoginForm.cs",
+              "ToolTip": "C:\\Users\\Frances Shane\\OneDrive\\Desktop\\OneDrive\\Desktop\\Documents\\AppDev\\BillingSystem\\LoginForm.cs",
+              "RelativeToolTip": "LoginForm.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-08-30T10:24:54.855Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "CustomerListForm.cs",
+              "DocumentMoniker": "C:\\Users\\Frances Shane\\OneDrive\\Desktop\\OneDrive\\Desktop\\Documents\\AppDev\\BillingSystem\\CustomerListForm.cs",
+              "RelativeDocumentMoniker": "CustomerListForm.cs",
+              "ToolTip": "C:\\Users\\Frances Shane\\OneDrive\\Desktop\\OneDrive\\Desktop\\Documents\\AppDev\\BillingSystem\\CustomerListForm.cs",
+              "RelativeToolTip": "CustomerListForm.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-08-30T10:24:58.628Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "LoginForm.cs",
+              "DocumentMoniker": "C:\\Users\\Frances Shane\\OneDrive\\Desktop\\OneDrive\\Desktop\\Documents\\AppDev\\BillingSystem\\BillingSystem\\LoginForm.cs",
+              "RelativeDocumentMoniker": "BillingSystem\\LoginForm.cs",
+              "ToolTip": "C:\\Users\\Frances Shane\\OneDrive\\Desktop\\OneDrive\\Desktop\\Documents\\AppDev\\BillingSystem\\BillingSystem\\LoginForm.cs",
+              "RelativeToolTip": "BillingSystem\\LoginForm.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-08-30T10:24:48.301Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "AddCustomerFormcs.cs",
+              "DocumentMoniker": "C:\\Users\\Frances Shane\\OneDrive\\Desktop\\OneDrive\\Desktop\\Documents\\AppDev\\BillingSystem\\BillingSystem\\AddCustomerFormcs.cs",
+              "RelativeDocumentMoniker": "BillingSystem\\AddCustomerFormcs.cs",
+              "ToolTip": "C:\\Users\\Frances Shane\\OneDrive\\Desktop\\OneDrive\\Desktop\\Documents\\AppDev\\BillingSystem\\BillingSystem\\AddCustomerFormcs.cs",
+              "RelativeToolTip": "BillingSystem\\AddCustomerFormcs.cs",
+              "ViewState": "AgIAADMAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-08-30T10:24:39.021Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "BillingSystem.csproj.nuget.g.props",
+              "DocumentMoniker": "C:\\Users\\Frances Shane\\OneDrive\\Desktop\\OneDrive\\Desktop\\Documents\\AppDev\\BillingSystem\\BillingSystem\\obj\\BillingSystem.csproj.nuget.g.props",
+              "RelativeDocumentMoniker": "BillingSystem\\obj\\BillingSystem.csproj.nuget.g.props",
+              "ToolTip": "C:\\Users\\Frances Shane\\OneDrive\\Desktop\\OneDrive\\Desktop\\Documents\\AppDev\\BillingSystem\\BillingSystem\\obj\\BillingSystem.csproj.nuget.g.props",
+              "RelativeToolTip": "BillingSystem\\obj\\BillingSystem.csproj.nuget.g.props",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003801|",
+              "WhenOpened": "2026-08-30T09:37:43.632Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "BillingSystem.csproj.user",
+              "DocumentMoniker": "C:\\Users\\Frances Shane\\OneDrive\\Desktop\\OneDrive\\Desktop\\Documents\\AppDev\\BillingSystem\\BillingSystem\\BillingSystem.csproj.user",
+              "RelativeDocumentMoniker": "BillingSystem\\BillingSystem.csproj.user",
+              "ToolTip": "C:\\Users\\Frances Shane\\OneDrive\\Desktop\\OneDrive\\Desktop\\Documents\\AppDev\\BillingSystem\\BillingSystem\\BillingSystem.csproj.user",
+              "RelativeToolTip": "BillingSystem\\BillingSystem.csproj.user",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAKAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003464|",
+              "WhenOpened": "2026-08-30T08:52:38.913Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "BillingSystem.dll",
+              "DocumentMoniker": "C:\\Users\\Frances Shane\\OneDrive\\Desktop\\OneDrive\\Desktop\\Documents\\AppDev\\BillingSystem\\BillingSystem\\bin\\Debug\\net10.0-windows\\BillingSystem.dll",
+              "RelativeDocumentMoniker": "BillingSystem\\bin\\Debug\\net10.0-windows\\BillingSystem.dll",
+              "ToolTip": "C:\\Users\\Frances Shane\\OneDrive\\Desktop\\OneDrive\\Desktop\\Documents\\AppDev\\BillingSystem\\BillingSystem\\bin\\Debug\\net10.0-windows\\BillingSystem.dll",
+              "RelativeToolTip": "BillingSystem\\bin\\Debug\\net10.0-windows\\BillingSystem.dll",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001697|",
+              "WhenOpened": "2026-08-30T09:40:37.585Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "BillingSystem.exe",
+              "DocumentMoniker": "C:\\Users\\Frances Shane\\OneDrive\\Desktop\\OneDrive\\Desktop\\Documents\\AppDev\\BillingSystem\\BillingSystem\\bin\\Debug\\net10.0-windows\\BillingSystem.exe",
+              "RelativeDocumentMoniker": "BillingSystem\\bin\\Debug\\net10.0-windows\\BillingSystem.exe",
+              "ToolTip": "C:\\Users\\Frances Shane\\OneDrive\\Desktop\\OneDrive\\Desktop\\Documents\\AppDev\\BillingSystem\\BillingSystem\\bin\\Debug\\net10.0-windows\\BillingSystem.exe",
+              "RelativeToolTip": "BillingSystem\\bin\\Debug\\net10.0-windows\\BillingSystem.exe",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000165|",
+              "WhenOpened": "2026-08-30T09:41:01.605Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "BillingSystem.dll",
+              "DocumentMoniker": "C:\\Users\\Frances Shane\\OneDrive\\Desktop\\OneDrive\\Desktop\\Documents\\AppDev\\BillingSystem\\BillingSystem\\obj\\Debug\\net10.0-windows\\ref\\BillingSystem.dll",
+              "RelativeDocumentMoniker": "BillingSystem\\obj\\Debug\\net10.0-windows\\ref\\BillingSystem.dll",
+              "ToolTip": "C:\\Users\\Frances Shane\\OneDrive\\Desktop\\OneDrive\\Desktop\\Documents\\AppDev\\BillingSystem\\BillingSystem\\obj\\Debug\\net10.0-windows\\ref\\BillingSystem.dll",
+              "RelativeToolTip": "BillingSystem\\obj\\Debug\\net10.0-windows\\ref\\BillingSystem.dll",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001697|",
+              "WhenOpened": "2026-08-30T09:41:15.801Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "BillingSystem.AssemblyInfo.cs",
+              "DocumentMoniker": "C:\\Users\\Frances Shane\\OneDrive\\Desktop\\OneDrive\\Desktop\\Documents\\AppDev\\BillingSystem\\BillingSystem\\obj\\Debug\\net10.0-windows\\BillingSystem.AssemblyInfo.cs",
+              "RelativeDocumentMoniker": "BillingSystem\\obj\\Debug\\net10.0-windows\\BillingSystem.AssemblyInfo.cs",
+              "ToolTip": "C:\\Users\\Frances Shane\\OneDrive\\Desktop\\OneDrive\\Desktop\\Documents\\AppDev\\BillingSystem\\BillingSystem\\obj\\Debug\\net10.0-windows\\BillingSystem.AssemblyInfo.cs",
+              "RelativeToolTip": "BillingSystem\\obj\\Debug\\net10.0-windows\\BillingSystem.AssemblyInfo.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-08-30T09:41:37.233Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "BillingSystem.AssemblyInfoInputs.cache",
+              "DocumentMoniker": "C:\\Users\\Frances Shane\\OneDrive\\Desktop\\OneDrive\\Desktop\\Documents\\AppDev\\BillingSystem\\BillingSystem\\obj\\Debug\\net10.0-windows\\BillingSystem.AssemblyInfoInputs.cache",
+              "RelativeDocumentMoniker": "BillingSystem\\obj\\Debug\\net10.0-windows\\BillingSystem.AssemblyInfoInputs.cache",
+              "ToolTip": "C:\\Users\\Frances Shane\\OneDrive\\Desktop\\OneDrive\\Desktop\\Documents\\AppDev\\BillingSystem\\BillingSystem\\obj\\Debug\\net10.0-windows\\BillingSystem.AssemblyInfoInputs.cache",
+              "RelativeToolTip": "BillingSystem\\obj\\Debug\\net10.0-windows\\BillingSystem.AssemblyInfoInputs.cache",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.002368|",
+              "WhenOpened": "2026-08-30T09:41:52.423Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "BillingSystem.csproj.BuildWithSkipAnalyzers",
+              "DocumentMoniker": "C:\\Users\\Frances Shane\\OneDrive\\Desktop\\OneDrive\\Desktop\\Documents\\AppDev\\BillingSystem\\BillingSystem\\obj\\Debug\\net10.0-windows\\BillingSystem.csproj.BuildWithSkipAnalyzers",
+              "RelativeDocumentMoniker": "BillingSystem\\obj\\Debug\\net10.0-windows\\BillingSystem.csproj.BuildWithSkipAnalyzers",
+              "ToolTip": "C:\\Users\\Frances Shane\\OneDrive\\Desktop\\OneDrive\\Desktop\\Documents\\AppDev\\BillingSystem\\BillingSystem\\obj\\Debug\\net10.0-windows\\BillingSystem.csproj.BuildWithSkipAnalyzers",
+              "RelativeToolTip": "BillingSystem\\obj\\Debug\\net10.0-windows\\BillingSystem.csproj.BuildWithSkipAnalyzers",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
+              "WhenOpened": "2026-08-30T09:41:59.014Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "apphost.exe - 1 [Neutral] - RCDATA",
+              "DocumentMoniker": "C:\\Users\\Frances Shane\\OneDrive\\Desktop\\OneDrive\\Desktop\\Documents\\AppDev\\BillingSystem\\BillingSystem\\obj\\Debug\\net10.0-windows\\apphost.exe",
+              "RelativeDocumentMoniker": "BillingSystem\\obj\\Debug\\net10.0-windows\\apphost.exe",
+              "ToolTip": "C:\\Users\\Frances Shane\\OneDrive\\Desktop\\OneDrive\\Desktop\\Documents\\AppDev\\BillingSystem\\BillingSystem\\obj\\Debug\\net10.0-windows\\apphost.exe - 1 [Neutral] - RCDATA",
+              "RelativeToolTip": "BillingSystem\\obj\\Debug\\net10.0-windows\\apphost.exe - 1 [Neutral] - RCDATA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000165|",
+              "WhenOpened": "2026-08-30T09:41:29.424Z",
+              "EditorCaption": " - 1 [Neutral] - RCDATA"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "apphost.exe",
+              "DocumentMoniker": "C:\\Users\\Frances Shane\\OneDrive\\Desktop\\OneDrive\\Desktop\\Documents\\AppDev\\BillingSystem\\BillingSystem\\obj\\Debug\\net10.0-windows\\apphost.exe",
+              "RelativeDocumentMoniker": "BillingSystem\\obj\\Debug\\net10.0-windows\\apphost.exe",
+              "ToolTip": "C:\\Users\\Frances Shane\\OneDrive\\Desktop\\OneDrive\\Desktop\\Documents\\AppDev\\BillingSystem\\BillingSystem\\obj\\Debug\\net10.0-windows\\apphost.exe",
+              "RelativeToolTip": "BillingSystem\\obj\\Debug\\net10.0-windows\\apphost.exe",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000165|",
+              "WhenOpened": "2026-08-30T09:41:23.086Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": ".NETCoreApp,Version=v10.0.AssemblyAttributes.cs",
+              "DocumentMoniker": "C:\\Users\\Frances Shane\\OneDrive\\Desktop\\OneDrive\\Desktop\\Documents\\AppDev\\BillingSystem\\BillingSystem\\obj\\Debug\\net10.0-windows\\.NETCoreApp,Version=v10.0.AssemblyAttributes.cs",
+              "RelativeDocumentMoniker": "BillingSystem\\obj\\Debug\\net10.0-windows\\.NETCoreApp,Version=v10.0.AssemblyAttributes.cs",
+              "ToolTip": "C:\\Users\\Frances Shane\\OneDrive\\Desktop\\OneDrive\\Desktop\\Documents\\AppDev\\BillingSystem\\BillingSystem\\obj\\Debug\\net10.0-windows\\.NETCoreApp,Version=v10.0.AssemblyAttributes.cs",
+              "RelativeToolTip": "BillingSystem\\obj\\Debug\\net10.0-windows\\.NETCoreApp,Version=v10.0.AssemblyAttributes.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-08-30T09:41:20.566Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "BillingSystem.dll",
+              "DocumentMoniker": "C:\\Users\\Frances Shane\\OneDrive\\Desktop\\OneDrive\\Desktop\\Documents\\AppDev\\BillingSystem\\BillingSystem\\obj\\Debug\\net10.0-windows\\refint\\BillingSystem.dll",
+              "RelativeDocumentMoniker": "BillingSystem\\obj\\Debug\\net10.0-windows\\refint\\BillingSystem.dll",
+              "ToolTip": "C:\\Users\\Frances Shane\\OneDrive\\Desktop\\OneDrive\\Desktop\\Documents\\AppDev\\BillingSystem\\BillingSystem\\obj\\Debug\\net10.0-windows\\refint\\BillingSystem.dll",
+              "RelativeToolTip": "BillingSystem\\obj\\Debug\\net10.0-windows\\refint\\BillingSystem.dll",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001697|",
+              "WhenOpened": "2026-08-30T09:41:17.977Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 23,
+              "Title": "BillingSystem.runtimeconfig.json",
+              "DocumentMoniker": "C:\\Users\\Frances Shane\\OneDrive\\Desktop\\OneDrive\\Desktop\\Documents\\AppDev\\BillingSystem\\BillingSystem\\bin\\Debug\\net10.0-windows\\BillingSystem.runtimeconfig.json",
+              "RelativeDocumentMoniker": "BillingSystem\\bin\\Debug\\net10.0-windows\\BillingSystem.runtimeconfig.json",
+              "ToolTip": "C:\\Users\\Frances Shane\\OneDrive\\Desktop\\OneDrive\\Desktop\\Documents\\AppDev\\BillingSystem\\BillingSystem\\bin\\Debug\\net10.0-windows\\BillingSystem.runtimeconfig.json",
+              "RelativeToolTip": "BillingSystem\\bin\\Debug\\net10.0-windows\\BillingSystem.runtimeconfig.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2026-08-30T09:41:09.45Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 24,
+              "Title": "BillingSystem.dll - 1 [Neutral] - Version",
+              "DocumentMoniker": "C:\\Users\\Frances Shane\\OneDrive\\Desktop\\OneDrive\\Desktop\\Documents\\AppDev\\BillingSystem\\BillingSystem\\bin\\Debug\\net10.0-windows\\BillingSystem.dll",
+              "RelativeDocumentMoniker": "BillingSystem\\bin\\Debug\\net10.0-windows\\BillingSystem.dll",
+              "ToolTip": "C:\\Users\\Frances Shane\\OneDrive\\Desktop\\OneDrive\\Desktop\\Documents\\AppDev\\BillingSystem\\BillingSystem\\bin\\Debug\\net10.0-windows\\BillingSystem.dll - 1 [Neutral] - Version",
+              "RelativeToolTip": "BillingSystem\\bin\\Debug\\net10.0-windows\\BillingSystem.dll - 1 [Neutral] - Version",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001697|",
+              "WhenOpened": "2026-08-30T09:40:51.838Z",
+              "EditorCaption": " - 1 [Neutral] - Version"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 25,
+              "Title": "BillingSystem.dll - 1 [Neutral] - RCDATA",
+              "DocumentMoniker": "C:\\Users\\Frances Shane\\OneDrive\\Desktop\\OneDrive\\Desktop\\Documents\\AppDev\\BillingSystem\\BillingSystem\\bin\\Debug\\net10.0-windows\\BillingSystem.dll",
+              "RelativeDocumentMoniker": "BillingSystem\\bin\\Debug\\net10.0-windows\\BillingSystem.dll",
+              "ToolTip": "C:\\Users\\Frances Shane\\OneDrive\\Desktop\\OneDrive\\Desktop\\Documents\\AppDev\\BillingSystem\\BillingSystem\\bin\\Debug\\net10.0-windows\\BillingSystem.dll - 1 [Neutral] - RCDATA",
+              "RelativeToolTip": "BillingSystem\\bin\\Debug\\net10.0-windows\\BillingSystem.dll - 1 [Neutral] - RCDATA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001697|",
+              "WhenOpened": "2026-08-30T09:40:46.865Z",
+              "EditorCaption": " - 1 [Neutral] - RCDATA"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 26,
+              "Title": "BillingSystem.deps.json",
+              "DocumentMoniker": "C:\\Users\\Frances Shane\\OneDrive\\Desktop\\OneDrive\\Desktop\\Documents\\AppDev\\BillingSystem\\BillingSystem\\bin\\Debug\\net10.0-windows\\BillingSystem.deps.json",
+              "RelativeDocumentMoniker": "BillingSystem\\bin\\Debug\\net10.0-windows\\BillingSystem.deps.json",
+              "ToolTip": "C:\\Users\\Frances Shane\\OneDrive\\Desktop\\OneDrive\\Desktop\\Documents\\AppDev\\BillingSystem\\BillingSystem\\bin\\Debug\\net10.0-windows\\BillingSystem.deps.json",
+              "RelativeToolTip": "BillingSystem\\bin\\Debug\\net10.0-windows\\BillingSystem.deps.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2026-08-30T09:40:34.789Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 27,
+              "Title": "VSWorkspaceState.json",
+              "DocumentMoniker": "C:\\Users\\Frances Shane\\OneDrive\\Desktop\\OneDrive\\Desktop\\Documents\\AppDev\\BillingSystem\\.vs\\VSWorkspaceState.json",
+              "RelativeDocumentMoniker": ".vs\\VSWorkspaceState.json",
+              "ToolTip": "C:\\Users\\Frances Shane\\OneDrive\\Desktop\\OneDrive\\Desktop\\Documents\\AppDev\\BillingSystem\\.vs\\VSWorkspaceState.json",
+              "RelativeToolTip": ".vs\\VSWorkspaceState.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2026-08-30T09:40:29.937Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 28,
+              "Title": "billingsystem.strings.v10.bin",
+              "DocumentMoniker": "C:\\Users\\Frances Shane\\OneDrive\\Desktop\\OneDrive\\Desktop\\Documents\\AppDev\\BillingSystem\\.vs\\ProjectEvaluation\\billingsystem.strings.v10.bin",
+              "RelativeDocumentMoniker": ".vs\\ProjectEvaluation\\billingsystem.strings.v10.bin",
+              "ToolTip": "C:\\Users\\Frances Shane\\OneDrive\\Desktop\\OneDrive\\Desktop\\Documents\\AppDev\\BillingSystem\\.vs\\ProjectEvaluation\\billingsystem.strings.v10.bin",
+              "RelativeToolTip": ".vs\\ProjectEvaluation\\billingsystem.strings.v10.bin",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
+              "WhenOpened": "2026-08-30T09:40:21.143Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 29,
+              "Title": "billingsystem.projects.v10.bin",
+              "DocumentMoniker": "C:\\Users\\Frances Shane\\OneDrive\\Desktop\\OneDrive\\Desktop\\Documents\\AppDev\\BillingSystem\\.vs\\ProjectEvaluation\\billingsystem.projects.v10.bin",
+              "RelativeDocumentMoniker": ".vs\\ProjectEvaluation\\billingsystem.projects.v10.bin",
+              "ToolTip": "C:\\Users\\Frances Shane\\OneDrive\\Desktop\\OneDrive\\Desktop\\Documents\\AppDev\\BillingSystem\\.vs\\ProjectEvaluation\\billingsystem.projects.v10.bin",
+              "RelativeToolTip": ".vs\\ProjectEvaluation\\billingsystem.projects.v10.bin",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
+              "WhenOpened": "2026-08-30T09:40:18.849Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 30,
+              "Title": "billingsystem.metadata.v10.bin",
+              "DocumentMoniker": "C:\\Users\\Frances Shane\\OneDrive\\Desktop\\OneDrive\\Desktop\\Documents\\AppDev\\BillingSystem\\.vs\\ProjectEvaluation\\billingsystem.metadata.v10.bin",
+              "RelativeDocumentMoniker": ".vs\\ProjectEvaluation\\billingsystem.metadata.v10.bin",
+              "ToolTip": "C:\\Users\\Frances Shane\\OneDrive\\Desktop\\OneDrive\\Desktop\\Documents\\AppDev\\BillingSystem\\.vs\\ProjectEvaluation\\billingsystem.metadata.v10.bin",
+              "RelativeToolTip": ".vs\\ProjectEvaluation\\billingsystem.metadata.v10.bin",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
+              "WhenOpened": "2026-08-30T09:40:13.383Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 31,
+              "Title": "settings.json",
+              "DocumentMoniker": "C:\\Users\\Frances Shane\\OneDrive\\Desktop\\OneDrive\\Desktop\\Documents\\AppDev\\BillingSystem\\.vs\\BillingSystem.slnx\\v18\\ResourceExplorer\\settings.json",
+              "RelativeDocumentMoniker": ".vs\\BillingSystem.slnx\\v18\\ResourceExplorer\\settings.json",
+              "ToolTip": "C:\\Users\\Frances Shane\\OneDrive\\Desktop\\OneDrive\\Desktop\\Documents\\AppDev\\BillingSystem\\.vs\\BillingSystem.slnx\\v18\\ResourceExplorer\\settings.json",
+              "RelativeToolTip": ".vs\\BillingSystem.slnx\\v18\\ResourceExplorer\\settings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2026-08-30T09:40:04.276Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 32,
+              "Title": "BillingSystem.GlobalUsings.g.cs",
+              "DocumentMoniker": "C:\\Users\\Frances Shane\\OneDrive\\Desktop\\OneDrive\\Desktop\\Documents\\AppDev\\BillingSystem\\BillingSystem\\obj\\Debug\\net10.0-windows\\BillingSystem.GlobalUsings.g.cs",
+              "RelativeDocumentMoniker": "BillingSystem\\obj\\Debug\\net10.0-windows\\BillingSystem.GlobalUsings.g.cs",
+              "ToolTip": "C:\\Users\\Frances Shane\\OneDrive\\Desktop\\OneDrive\\Desktop\\Documents\\AppDev\\BillingSystem\\BillingSystem\\obj\\Debug\\net10.0-windows\\BillingSystem.GlobalUsings.g.cs",
+              "RelativeToolTip": "BillingSystem\\obj\\Debug\\net10.0-windows\\BillingSystem.GlobalUsings.g.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-08-30T09:38:41.633Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 33,
+              "Title": "BillingSystem.csproj.nuget.dgspec.json",
+              "DocumentMoniker": "C:\\Users\\Frances Shane\\OneDrive\\Desktop\\OneDrive\\Desktop\\Documents\\AppDev\\BillingSystem\\BillingSystem\\obj\\BillingSystem.csproj.nuget.dgspec.json",
+              "RelativeDocumentMoniker": "BillingSystem\\obj\\BillingSystem.csproj.nuget.dgspec.json",
+              "ToolTip": "C:\\Users\\Frances Shane\\OneDrive\\Desktop\\OneDrive\\Desktop\\Documents\\AppDev\\BillingSystem\\BillingSystem\\obj\\BillingSystem.csproj.nuget.dgspec.json",
+              "RelativeToolTip": "BillingSystem\\obj\\BillingSystem.csproj.nuget.dgspec.json",
+              "ViewState": "AgIAAFkBAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2026-08-30T09:37:45.413Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 34,
+              "Title": "BillingSystem.csproj.nuget.g.targets",
+              "DocumentMoniker": "C:\\Users\\Frances Shane\\OneDrive\\Desktop\\OneDrive\\Desktop\\Documents\\AppDev\\BillingSystem\\BillingSystem\\obj\\BillingSystem.csproj.nuget.g.targets",
+              "RelativeDocumentMoniker": "BillingSystem\\obj\\BillingSystem.csproj.nuget.g.targets",
+              "ToolTip": "C:\\Users\\Frances Shane\\OneDrive\\Desktop\\OneDrive\\Desktop\\Documents\\AppDev\\BillingSystem\\BillingSystem\\obj\\BillingSystem.csproj.nuget.g.targets",
+              "RelativeToolTip": "BillingSystem\\obj\\BillingSystem.csproj.nuget.g.targets",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003801|",
+              "WhenOpened": "2026-08-30T09:37:41.29Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 35,
+              "Title": "project.nuget.cache",
+              "DocumentMoniker": "C:\\Users\\Frances Shane\\OneDrive\\Desktop\\OneDrive\\Desktop\\Documents\\AppDev\\BillingSystem\\BillingSystem\\obj\\project.nuget.cache",
+              "RelativeDocumentMoniker": "BillingSystem\\obj\\project.nuget.cache",
+              "ToolTip": "C:\\Users\\Frances Shane\\OneDrive\\Desktop\\OneDrive\\Desktop\\Documents\\AppDev\\BillingSystem\\BillingSystem\\obj\\project.nuget.cache",
+              "RelativeToolTip": "BillingSystem\\obj\\project.nuget.cache",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.002368|",
+              "WhenOpened": "2026-08-30T09:37:36.636Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 36,
+              "Title": "project.assets.json",
+              "DocumentMoniker": "C:\\Users\\Frances Shane\\OneDrive\\Desktop\\OneDrive\\Desktop\\Documents\\AppDev\\BillingSystem\\BillingSystem\\obj\\project.assets.json",
+              "RelativeDocumentMoniker": "BillingSystem\\obj\\project.assets.json",
+              "ToolTip": "C:\\Users\\Frances Shane\\OneDrive\\Desktop\\OneDrive\\Desktop\\Documents\\AppDev\\BillingSystem\\BillingSystem\\obj\\project.assets.json",
+              "RelativeToolTip": "BillingSystem\\obj\\project.assets.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2026-08-30T09:37:29.21Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
