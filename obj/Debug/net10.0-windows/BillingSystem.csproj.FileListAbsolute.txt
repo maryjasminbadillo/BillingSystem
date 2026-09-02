@@ -1,0 +1,17 @@
+C:\Users\Acer\OneDrive\Documents\BillingSystem\bin\Debug\net10.0-windows\BillingSystem.exe
+C:\Users\Acer\OneDrive\Documents\BillingSystem\bin\Debug\net10.0-windows\BillingSystem.deps.json
+C:\Users\Acer\OneDrive\Documents\BillingSystem\bin\Debug\net10.0-windows\BillingSystem.runtimeconfig.json
+C:\Users\Acer\OneDrive\Documents\BillingSystem\bin\Debug\net10.0-windows\BillingSystem.dll
+C:\Users\Acer\OneDrive\Documents\BillingSystem\bin\Debug\net10.0-windows\BillingSystem.pdb
+C:\Users\Acer\OneDrive\Documents\BillingSystem\obj\Debug\net10.0-windows\BillingSystem.AddCustomerForm.resources
+C:\Users\Acer\OneDrive\Documents\BillingSystem\obj\Debug\net10.0-windows\BillingSystem.CustomerListForm.resources
+C:\Users\Acer\OneDrive\Documents\BillingSystem\obj\Debug\net10.0-windows\BillingSystem.LoginForm.resources
+C:\Users\Acer\OneDrive\Documents\BillingSystem\obj\Debug\net10.0-windows\BillingSystem.csproj.GenerateResource.cache
+C:\Users\Acer\OneDrive\Documents\BillingSystem\obj\Debug\net10.0-windows\BillingSystem.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Acer\OneDrive\Documents\BillingSystem\obj\Debug\net10.0-windows\BillingSystem.csproj.CoreCompileInputs.cache
+C:\Users\Acer\OneDrive\Documents\BillingSystem\obj\Debug\net10.0-windows\BillingSystem.sourcelink.json
+C:\Users\Acer\OneDrive\Documents\BillingSystem\obj\Debug\net10.0-windows\BillingSystem.dll
+C:\Users\Acer\OneDrive\Documents\BillingSystem\obj\Debug\net10.0-windows\refint\BillingSystem.dll
+C:\Users\Acer\OneDrive\Documents\BillingSystem\obj\Debug\net10.0-windows\BillingSystem.pdb
+C:\Users\Acer\OneDrive\Documents\BillingSystem\obj\Debug\net10.0-windows\BillingSystem.genruntimeconfig.cache
+C:\Users\Acer\OneDrive\Documents\BillingSystem\obj\Debug\net10.0-windows\ref\BillingSystem.dll
