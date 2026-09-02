@@ -9,6 +9,6 @@ internal static class Program
 	private static void Main()
 	{
 		ApplicationConfiguration.Initialize();
-		Application.Run(new LoginForm());
+		Application.Run(new LoginForm()); // J.B. Version
 	}
 }
