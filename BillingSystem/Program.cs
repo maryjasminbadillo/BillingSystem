@@ -9,6 +9,7 @@ internal static class Program
 	private static void Main()
 	{
 		ApplicationConfiguration.Initialize();
-		Application.Run(new LoginForm()); // L.P. 
-	}
+		Application.Run(new LoginForm()); // L.P. & J.B. Version
+
+    }
 }
