@@ -2,11 +2,68 @@ using System;
 using System.ComponentModel;
 using System.Drawing;
 using System.Windows.Forms;
+using MySql.Data.MySqlClient;
+using BillingSystem.Database;
 
 namespace BillingSystem;
 
 public class LoginForm : Form
 {
+ feature/customerlist-badillo
+    private IContainer components = null;
+
+    private Label lblTitle;
+
+    private Label lblUsername;
+
+    private TextBox txtUsername;
+
+    private Label lblPassword;
+
+    private TextBox txtPassword;
+
+    private Button btnLogin;
+
+    private Button btnCancel;
+
+    public LoginForm()
+    {
+        InitializeComponent();
+    }
+
+    private void LoginForm_Load(object sender, EventArgs e)
+    {
+        // Test the database connection when the form opens.
+        // This gives a clear warning if MySQL is not running.
+        if (!DatabaseConnection.TestConnection())
+        {
+            MessageBox.Show(
+                "Cannot connect to the database.\n\n" +
+                "Please make sure:\n" +
+                "  1. MySQL Server is running.\n" +
+                "  2. BillingDB database exists.\n" +
+                "  3. The password in DatabaseConnection.cs is correct.",
+                "Database Connection Error",
+                MessageBoxButtons.OK,
+                MessageBoxIcon.Error);
+        }
+        
+        txtUsername.Focus();
+    }
+
+    private void lblUsername_Click(object sender, EventArgs e)
+    {
+    }
+
+    protected override void Dispose(bool disposing)
+    {
+        if (disposing && components != null)
+        {
+            components.Dispose();
+        }
+        base.Dispose(disposing);
+    }
+
 	private IContainer components = null;
 
 	private Label lblTitle;
@@ -44,6 +101,7 @@ public class LoginForm : Form
 		}
 		base.Dispose(disposing);
 	}
+ main
 
     private void InitializeComponent()
     {
@@ -109,6 +167,10 @@ public class LoginForm : Form
         btnLogin.TabIndex = 6;
         btnLogin.Text = "Login";
         btnLogin.UseVisualStyleBackColor = true;
+ feature/customerlist-badillo
+        btnLogin.Click += btnLogin_Click;
+
+ main
         // 
         // btnCancel
         // 
@@ -135,9 +197,90 @@ public class LoginForm : Form
         MinimizeBox = false;
         Name = "LoginForm";
         StartPosition = FormStartPosition.CenterScreen;
+ feature/customerlist-badillo
+        Text = "Billing System - Login";
+
         Text = "Billing System v1.0 – Login (J.B.)";
+ main
         Load += LoginForm_Load;
         ResumeLayout(false);
         PerformLayout();
     }
+ feature/customerlist-badillo
+
+    private void btnLogin_Click(object sender, EventArgs e)
+    {
+        // Step 1: Make sure both fields are filled
+        if (string.IsNullOrWhiteSpace(txtUsername.Text))
+        {
+            MessageBox.Show("Please enter your username.",
+                "Login", MessageBoxButtons.OK, MessageBoxIcon.Warning);
+            txtUsername.Focus();
+            return;
+        }
+
+        if (string.IsNullOrWhiteSpace(txtPassword.Text))
+        {
+            MessageBox.Show("Please enter your password.",
+                "Login", MessageBoxButtons.OK, MessageBoxIcon.Warning);
+            txtPassword.Focus();
+            return;
+        }
+
+        // Step 2: Query the Users table to check credentials
+        try
+        {
+            using (var conn = DatabaseConnection.GetConnection())
+            {
+                conn.Open();
+
+                // Parameterized query — safe from SQL injection
+                string sql = @"SELECT UserID, FullName, Role
+                           FROM   Users
+                           WHERE  Username = @Username
+                             AND  Password = @Password;";
+
+                using (var cmd = new MySqlCommand(sql, conn))
+                {
+                    cmd.Parameters.AddWithValue("@Username", txtUsername.Text.Trim());
+                    cmd.Parameters.AddWithValue("@Password", txtPassword.Text);
+
+                    using (var reader = cmd.ExecuteReader())
+                    {
+                        if (reader.Read())
+                        {
+                            // Credentials matched — open the Customer List form
+                            CustomerListForm listForm = new CustomerListForm();
+                            listForm.Show();
+                            this.Hide();
+                        }
+                        else
+                        {
+                            // No match found — wrong credentials
+                            MessageBox.Show(
+                                "Invalid username or password.\nPlease try again.",
+                                "Login Failed",
+                                MessageBoxButtons.OK,
+                                MessageBoxIcon.Error);
+                            txtPassword.Clear();
+                            txtPassword.Focus();
+                        }
+                    }
+                }
+            }
+        }
+        catch (Exception ex)
+        {
+            // Show an error if the database cannot be reached
+            MessageBox.Show(
+                "Database error:\n" + ex.Message,
+                "Connection Error",
+                MessageBoxButtons.OK,
+                MessageBoxIcon.Error);
+        }
+    }
+
+
+
+ main
 }
