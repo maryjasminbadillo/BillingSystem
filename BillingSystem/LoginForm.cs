@@ -9,6 +9,7 @@ namespace BillingSystem;
 
 public class LoginForm : Form
 {
+ feature/customerlist-badillo
     private IContainer components = null;
 
     private Label lblTitle;
@@ -62,6 +63,45 @@ public class LoginForm : Form
         }
         base.Dispose(disposing);
     }
+
+	private IContainer components = null;
+
+	private Label lblTitle;
+
+	private Label lblUsername;
+
+	private TextBox txtUsername;
+
+	private Label lblPassword;
+
+	private TextBox txtPassword;
+
+	private Button btnLogin;
+
+	private Button btnCancel;
+
+	public LoginForm()
+	{
+		InitializeComponent();
+	}
+
+	private void LoginForm_Load(object sender, EventArgs e)
+	{
+	}
+
+	private void lblUsername_Click(object sender, EventArgs e)
+	{
+	}
+
+	protected override void Dispose(bool disposing)
+	{
+		if (disposing && components != null)
+		{
+			components.Dispose();
+		}
+		base.Dispose(disposing);
+	}
+ main
 
     private void InitializeComponent()
     {
@@ -127,7 +167,10 @@ public class LoginForm : Form
         btnLogin.TabIndex = 6;
         btnLogin.Text = "Login";
         btnLogin.UseVisualStyleBackColor = true;
+ feature/customerlist-badillo
         btnLogin.Click += btnLogin_Click;
+
+ main
         // 
         // btnCancel
         // 
@@ -154,11 +197,16 @@ public class LoginForm : Form
         MinimizeBox = false;
         Name = "LoginForm";
         StartPosition = FormStartPosition.CenterScreen;
+ feature/customerlist-badillo
         Text = "Billing System - Login";
+
+        Text = "Billing System v1.0 – Login (J.B.)";
+ main
         Load += LoginForm_Load;
         ResumeLayout(false);
         PerformLayout();
     }
+ feature/customerlist-badillo
 
     private void btnLogin_Click(object sender, EventArgs e)
     {
@@ -233,4 +281,6 @@ public class LoginForm : Form
     }
 
 
+
+ main
 }
